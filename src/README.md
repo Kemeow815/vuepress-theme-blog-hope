@@ -3,9 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /logo.svg
-heroText: Oragekk's Blog
+heroImage: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png
+heroText: 克喵の次元站
 bgImage: "/assets/home_bg3.jpg"
+bgImageDark: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/back1.jpg"
 heroFullScreen: true
 tagline: Goals determine what you are going to be. —— Julius Erving
 description: 「一生短暂，过程很美」 致力于分享自己涉及和了解的内容，包括但不限于编程语言、AI体验、世界探索者、极客知识| Exploration & geek enthusiast，Full-stack Front-end Engineer，UX Designer | 与你一起发现更大的世界。
@@ -14,7 +15,7 @@ head:
     - name: keywords
       content: oragekk, 上冬十二, Oragekk Blog, 博客, 个人博客, 极客, geek, 大前端, 设计, iOS, Flutter, Vue
 projects:
-  - icon: /logo.svg
+  - icon: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png
     name: 关于本站
     desc: 这里有关于站点的详细介绍
     link: /about

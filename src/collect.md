@@ -2,7 +2,7 @@
 home: true
 title: 收藏
 icon: home
-heroImage: /logo.svg
+heroImage: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png
 heroText: 你发现了有趣的地方~
 tagline: ✨穹顶之下，仰望繁星。✨
 actions:
@@ -77,7 +77,7 @@ features:
 
 
 
-footer: <div><span>Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">VuePress</a></span>|<span>Theme by <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a></span></div>
+footer: <div><span>Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">VuePress</a></span>|<span>Theme by <a href="https://github.com/Kemeow815/vuepress-theme-blog-hope" target="_blank">克喵爱吃卤面</a></span></div>
 ---
 
 

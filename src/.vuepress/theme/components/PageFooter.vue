@@ -93,7 +93,7 @@ const copyright = computed(() =>
     : "copyright" in themeLocale.value
     ? themeLocale.value.copyright
     : author.value.length
-    ? `Copyright © 2016-${new Date().getFullYear()} ${author.value[0].name}`
+    ? `Copyright © 2025-${new Date().getFullYear()} ${author.value[0].name}`
     : false
 );
 const bgImage = ref("");

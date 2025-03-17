@@ -3,24 +3,24 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 export default MyTheme({
   hotReload: true,
-  hostname: "https://oragekk.me",
+  hostname: "https://net.kemiaosw.top",
   themeColor: true,
   fullscreen: true,
   author: {
-    name: "Oragekk",
-    url: "https://orgaekk.me",
+    name: "克喵爱吃卤面",
+    url: "https://net.kemiaosw.top",
   },
 
   iconAssets: [
     // 默认：
     "//at.alicdn.com/t/c/font_2410206_5vb9zlyghj.css",
     // 自己的
-    "//at.alicdn.com/t/c/font_3941380_00g6dc2nedwir.css",
+    "//at.alicdn.com/t/c/font_4778596_vgbps2hcesi.css",
   ],
 
-  logo: "/logo.svg",
+  logo: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png",
 
-  repo: "OrageKK/oragekk.github.io",
+  repo: "Kemeow815/vuepress-theme-blog-克喵爱吃卤面",
 
   docsDir: "src",
 
@@ -33,19 +33,20 @@ export default MyTheme({
   blog: {
     medias: {
       // Baidu: "https://example.com",
+      telegram: "https://t.me/KemiaoJun",
       // BiliBili: "https://example.com",
       // Bitbucket: "https://example.com",
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
-      Email: "mailto:oragekk@163.com",
+      Email: "mailto:kemiao@kmblog.icu",
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      GitHub: "https://github.com/OrageKK",
+      GitHub: "https://github.com/Kemeow815",
       // Gitlab: "https://example.com",
-      Gmail: "mailto:oragekk@gmail.com",
+      // Gmail: "mailto:oragekk@gmail.com",
       // Instagram: "https://example.com",
       // Lark: "https://example.com",
       // Lines: "https://example.com",
@@ -65,7 +66,7 @@ export default MyTheme({
       // Zhihu: "https://example.com",
 
     },
-    name: "上冬十二",
+    name: "克喵爱吃卤面",
   },
   locales: {
     /**
@@ -83,7 +84,7 @@ export default MyTheme({
       displayFooter: false,
 
       blog: {
-        description: "到最后，竟庆幸于夕阳仍留在身上",
+        description: "每一段旅行都有终点~",
         intro: "/intro.html",
       },
 
@@ -166,7 +167,7 @@ export default MyTheme({
     },
     prismjs: false,
     copyright: {
-      author: "Oragekk",
+      author: "克喵爱吃卤面",
       license: "CC BY-NC-SA 4.0",
       global: true,
     },
@@ -216,7 +217,7 @@ export default MyTheme({
 
     // uncomment these if you want a PWA
     pwa: {
-      favicon: "/favicon.ico",
+      favicon: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/%E6%B1%A4%E5%9C%86.png",
       cacheHTML: true,
       cacheImage: true,
       appendBase: true,
